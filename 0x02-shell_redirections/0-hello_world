@@ -1,2 +1,2 @@
 #!/ban/bash
-Hello, World
+echo "Hello, World"
